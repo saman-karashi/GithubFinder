@@ -1,0 +1,24 @@
+.container .grid{
+grid-template-columns:1fr !important;
+}
+
+.logo img{
+width: 60px;
+height: 60px;
+}
+
+.navbar{
+height:90px;
+}
+
+.wrapper .search_box {
+padding:1rem;
+}
+
+input[type='text']{
+width: 80%;
+}
+
+.icon{
+right: 30px;
+}
